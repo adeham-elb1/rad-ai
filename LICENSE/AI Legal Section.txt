@@ -1,0 +1,12 @@
+ AI Model Usage Notice
+
+This project uses MedGemma 1.5 via Ollama, which is subject to Google's Health AI Developer Foundations Terms of Use.
+
+The AI model, weights, and outputs are NOT covered under the MIT License of this repository.
+
+Users must comply with:
+
+* Google Health AI Developer Foundations Terms of Use
+* Prohibited Use Policy
+
+This project is intended for educational purposes only and must NOT be used for clinical or medical decision-making.
